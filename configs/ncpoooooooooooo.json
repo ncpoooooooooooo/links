@@ -1,0 +1,65 @@
+{
+    "DOWNLOAD_TAG_VER":"v2.3.4",
+    "BASE_SHORT_URL": "https://s.ncpoooooooooooo.com",
+    "META":{
+        "TITLE":"ncpoooooooooooo",
+        "AUTHOR":"ncpoooooooooooo",
+        "DESCRIPTION":"A Panda Gamer and Streamer!",
+        "ICON_URL":"https://profileicons.pages.dev/p/ncp",
+        "THEME":"auto"
+    },
+    "BIO":{
+        "ICON_URL":"https://profileicons.pages.dev/p/ncp",
+        "TITLE":"ncpoooooooooooo",
+        "DESCRIPTION":"Super shy gamer, just tryna get out of my shell.",
+        "FOOTER":"🐼 thx for the support 🐼"
+    },
+    "LINKS":[
+        {
+            "type":"discord",
+            "name":"Discord",
+            "icon":"discord",
+            "url":"/discord"
+        },
+        {
+            "type":"twitch",
+            "name":"Twitch",
+            "icon":"twitch",
+            "url":"/tv"
+        },
+        {
+            "type":"yt",
+            "name":"YouTube",
+            "icon":"youtube",
+            "url":"/yt"
+        },
+        {
+            "type":"tiktok",
+            "name":"TikTok",
+            "icon":"tiktok",
+            "url":"/tk"
+        },
+        {
+            "type":"paypal",
+            "name":"PayPal",
+            "icon":"paypal",
+            "url":"/donate"
+        },
+        {
+            "type":"patreon",
+            "name":"Patreon",
+            "icon":"patreon",
+            "url":"/patreon"
+        }
+    ],
+    "_REDIRECTS":{
+        "ENABLED": false,
+        "LINKS":[
+            {
+                "name":"/tv",
+                "url":"/tv",
+                "code":308
+            }
+        ]
+    }
+}
